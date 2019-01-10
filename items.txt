@@ -1,0 +1,8 @@
+Project Opened on : 10/04/2018
+================================
+
+* in_array()
+* array_keys()
+* call_user_func_array()
+* str_replace()
+* ($_POST)

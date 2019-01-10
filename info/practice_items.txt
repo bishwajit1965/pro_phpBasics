@@ -1,0 +1,23 @@
+|=====================================
+| PHP functions list to be practised:
+| Dated: 09/3/18
+|=====================================
+
+	array_values
+	call_user_func_array
+	explode()
+	file_exists()
+	FILTER_SANITIZE_URL
+	filter_var()
+	func_get_args()
+	implode()
+	method_exist()
+	parseUrl()
+	rtrim()
+
+/*
+|--------------------------------------------------
+|ITEMS TO BR PTACTISED DEEPLY
+|---------------------------------------------------
+*/
+1) How to get file name with extension
